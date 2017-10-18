@@ -10,7 +10,7 @@ logging:
   level:
     io:
       pivotal: DEBUG
-a
+
 greeting:
   displayFortune: true
 
